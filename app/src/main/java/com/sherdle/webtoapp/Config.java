@@ -28,9 +28,9 @@ public class Config {
      * URL / LIST OF URLS
      */
     //网站标题
-    public static final Object[] TITLES = new String[]{"脉聊"};
+    public static final Object[] TITLES = new String[]{"快聊"};
     //网站域名
-    public static final String[] URLS = new String[]{"http://ml.codeui.cn:81"};
+    public static final String[] URLS = new String[]{"http://talk.mc-ns.com"};
     public static final int[] ICONS = new int[]{0};
 
     /**
