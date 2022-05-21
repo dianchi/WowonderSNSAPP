@@ -1,6 +1,6 @@
 <resources>
     <!--APP名称 -->
-    <string name="app_name">脉聊</string>
+    <string name="app_name">VBOX</string>
 
     <string name="ad_banner_id"></string>
     <string name="ad_interstitial_id"></string>
@@ -29,7 +29,7 @@
     <string name="download_done">The file has been saved in the downloads folder, open it by tapping the file in your notifications</string>
     <string name="exit_message">Thank you for using our app!</string>
     <string name="no_app_message">No app found to complete this action!</string>
-    <string name="dialog_about"><![CDATA[脉聊应用程序包含网页PC和手机版本你可以在松果商城购买它!]]></string>
+    <string name="dialog_about"><![CDATA[VBOX，全称VORE-BOX，是VORE-HOME旗下资源分享社区。]]></string>
     <string name="drawer_open">Open drawer</string>
     <string name="drawer_close">Close drawer</string>
     <string name="notification_error_ssl_cert_invalid">The SSL Certificate of the server could not be verified. Would you like to continue?</string>

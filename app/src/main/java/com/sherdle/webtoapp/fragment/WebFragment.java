@@ -298,7 +298,7 @@ public class WebFragment extends Fragment implements AdvancedWebView.Listener, S
         shareIntent
                 .putExtra(
                         Intent.EXTRA_TEXT,
-                        String.format(getString(R.string.share_body), browser.getTitle(), appName + " https://www.pineal.cn/goods-39.html" ));
+                        String.format("我发现一款非常好的应用 %1$s 赶快下载 %2$2", browser.getTitle(), appName + " https://voreat.top/vbox-app/index.php" ));
         startActivity(Intent.createChooser(shareIntent,
                 getText(R.string.sharetitle)));
     }
